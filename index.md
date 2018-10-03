@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Introduction to Data Usage
+Sometimes you want to know how much is your network usage. so you search for app to show you you data usage, charts, plans, statistics , etc. there is lots of apps for desktop and so on but there is something special, you can do it now. Data Usage is here for you!!!  
 
-You can use the [editor on GitHub](https://github.com/Borjianamin98/DataUsage.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Recent release 3.0.0 changes
+Welcome to big changes in new version of Data Usage.
+App works perfectly in Universal Windows Platform (UWP) now and support new hamburger menu introduced in Windows 10. All part of app completely designed and programmed again. it's something new with same and much more setting than before.
+1. Much clearer and more understandable
+2. Improved UI with better image quality.
+3. Very faster and cleaner.
+4. New chart with lots of option like CrossHair, Zoom in/out and more.
+5. Increase clarity and performance of chart.
+6. Add more modes to chart like Daily, monthly, weekly, etc.
+7. Add two default app mode with beautiful color (Light and Dark) instead of backgrounds
+8. More better performance for different calendar.
+9. Give more message for errors or tips
+10. Manage your connections and calculation of them and more.
+11. New simple tile (for better program performance in memory)
+12. Various bug fixes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Premisions of application
+it is good to provide what needs our application. app only accesses some personal information include IP address and Network usage of your system for show information related to your data usage. 
 
-### Markdown
+## Contact Me
+#### Email: borjianamin98@outlook.com
+#### linkden: https://www.linkedin.com/in/amin-borjian-2a387315b/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Borjianamin98/DataUsage.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+Enjoy app!
