@@ -1,7 +1,7 @@
-# Introduction to Data Usage
+# Introduction To Data Usage
 Sometimes you want to know how much is your network usage. so you search for app to show you you data usage, charts, plans, statistics , etc. there is lots of apps for desktop and so on but there is something special, you can do it now. Data Usage is here for you!!!  
 
-## Recent release 3.0.0 changes
+## Recent Release 3.0.0 Changes
 Welcome to big changes in new version of Data Usage.
 App works perfectly in Universal Windows Platform (UWP) now and support new hamburger menu introduced in Windows 10. All part of app completely designed and programmed again. it's something new with same and much more setting than before.
 1. Much clearer and more understandable
@@ -17,8 +17,9 @@ App works perfectly in Universal Windows Platform (UWP) now and support new hamb
 11. New simple tile (for better program performance in memory)
 12. Various bug fixes.
 
-## Premisions of application
-it is good to provide what needs our application. app only accesses some personal information include IP address and Network usage of your system for show information related to your data usage. 
+## Premisions Of Application
+it is good to provide what needs our application. out application collect your data usage saved on your platform for show them in the chart, table, etc. it uses IP address for collect information about your usage, your connection names, type of connection (WiFi, Ethernet and etc) and some more information just related to network. it doesn't pass anything over Internet or communicate with anything. Furthermore it uses your data stored on your device when you connect to different connection and because of that you can use app when you are offline. (the information of network usage depend on your platform saved on your system)
+At last, We only show information to you, there is no communication or sending data or more.
 
 ## Contact Me
 #### Email: borjianamin98@outlook.com
