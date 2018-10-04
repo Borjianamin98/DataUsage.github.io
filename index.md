@@ -18,7 +18,7 @@ App works perfectly in Universal Windows Platform (UWP) now and support new hamb
 12. Various bug fixes.
 
 ## Premisions Of Application
-it is good to provide what needs our application. out application collect your data usage saved on your platform for show them in the chart, table, etc. it uses IP address for collect information about your usage, your connection names, type of connection (WiFi, Ethernet and etc) and some more information just related to network. it doesn't pass anything over Internet or communicate with anything. Furthermore it uses your data stored on your device when you connect to different connection and because of that you can use app when you are offline. (the information of network usage depend on your platform saved on your system)
+it is good to provide what needs our application. my application collect your data usage saved on your platform for show them in the chart, table, etc. it uses IP address for collect information about your usage, your connection names, type of connection (WiFi, Ethernet and etc) and some more information just related to network. it doesn't pass anything over Internet or communicate with anything. Furthermore it uses your data stored on your device when you connect to different connection and because of that you can use app when you are offline. (the information of network usage depend on your platform saved on your system)
 At last, We only show information to you, there is no communication or sending data or more.
 
 ## Contact Me
